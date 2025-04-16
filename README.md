@@ -12,3 +12,10 @@ cd beniseviyonmu.bat
 chmod +x beni_seviyonmu.bat
 
 wine beni_seviyonmu.bat
+
+
+eğer beni_seviyonmu.bat durdurmak istiyorsanız 
+
+shutdown -a 
+
+yazınız
